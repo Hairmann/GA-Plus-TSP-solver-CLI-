@@ -1,0 +1,7 @@
+nSteps,100000
+printStepRate,0.01
+percentMutation,5
+isReadMatrix,true
+isModeMin,true
+isUntwistOn,false
+isCraftedOn,true
